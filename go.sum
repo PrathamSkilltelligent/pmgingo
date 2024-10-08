@@ -1,5 +1,7 @@
 github.com/PrathamSkilltelligent/pmgo v0.0.0-20241007105648-b0b5e498c4fa h1:1OOENICrpvKpwB2voYxqx/NVd7ODpnTgRNrDdAzYXU8=
 github.com/PrathamSkilltelligent/pmgo v0.0.0-20241007105648-b0b5e498c4fa/go.mod h1:cImoFNs5aqPwjw5vgM1uKr84dIk3cPN+n59ahVU4Pjc=
+github.com/PrathamSkilltelligent/pmgo v0.0.0-20241008052812-d9bea2d11d29 h1:jseIY95WjZcmuOxUJWQi2zleAFWjjabqbEzyYIQyLRA=
+github.com/PrathamSkilltelligent/pmgo v0.0.0-20241008052812-d9bea2d11d29/go.mod h1:4AHXd0l+83Ek2EpsO0uhUidqiotFlgTndMe1gv63HQE=
 github.com/bytedance/sonic v1.11.6 h1:oUp34TzMlL+OY1OUWxHqsdkgC/Zfc85zGqw9siXjrc0=
 github.com/bytedance/sonic v1.11.6/go.mod h1:LysEHSvpvDySVdC2f87zGWf6CIKJcAvqab1ZaiQtds4=
 github.com/bytedance/sonic/loader v0.1.1 h1:c+e5Pt1k/cy5wMveRDyk2X4B9hF4g7an8N3zCYjJFNM=

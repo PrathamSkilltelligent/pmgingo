@@ -3,7 +3,7 @@ module github.com/PrathamSkilltelligent/pmgingo
 go 1.22.2
 
 require (
-	github.com/PrathamSkilltelligent/pmgo v0.0.0-20241007105648-b0b5e498c4fa // indirect
+	github.com/PrathamSkilltelligent/pmgo v0.0.0-20241008052812-d9bea2d11d29 // indirect
 	github.com/bytedance/sonic v1.11.6 // indirect
 	github.com/bytedance/sonic/loader v0.1.1 // indirect
 	github.com/cloudwego/base64x v0.1.4 // indirect
